@@ -1,5 +1,6 @@
-# ubuline
-run ubuntu online
+# tinyline
+run tiny core linux online
 # Warning
-this website is under construction and only for testing ubuntu online
-current ubuntu versio : 16.04
+this website is under construction and only for testing tiny core linux online
+# thanks to :
+lrusso for mading VirtualXP open source with gived me this big idea
