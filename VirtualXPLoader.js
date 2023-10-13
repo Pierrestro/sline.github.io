@@ -11,8 +11,8 @@
 
         this.total_memory = 1024;
 
-        this.fast = options["fast"] || false;
-        this.winnt_hack = options["winnt_hack"] || false;
+        this.fast = options["fast"] || true;
+        this.winnt_hack = options["winnt_hack"] || true;
 
         this.reportSpeed = options["reportSpeed"] || function (n) { };
         console.log(options.reportSpeed);
